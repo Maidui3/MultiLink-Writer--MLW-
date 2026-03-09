@@ -1,4 +1,4 @@
-# MultiLink-Flasher--MLF-
+# MultiLink-Writer -MLF-
 | Supports Ethernet / Wi‑Fi4 / USB / CAN. | - | Ethernet / Wi‑Fi4 / USB / CAN 対応。|
 
 
